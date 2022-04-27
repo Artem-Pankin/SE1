@@ -1,3 +1,7 @@
+//учебная программа
+
+//Панькин, Шевчук КЭ-417, 2022
+
 #include <iostream>
 
 using namespace std;
