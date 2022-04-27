@@ -14,5 +14,6 @@ int main()
     cout << "Enter Y: "; cin >> y;
     cout << "Sum = : "<< x + y;
     cout << "P = : "<< x * y;
+    cout << "Div = : "<< x / y;
     return 0;
 }
